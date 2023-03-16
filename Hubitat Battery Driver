@@ -54,7 +54,7 @@
  *
  *
  *
- * 	Changes:            19 - added driver use conditions delay EF release of addtional security messures.
+ * 	Changes:            19 - added driver conditions of use to delay EF release of addtional security messures.
  *   0.1.6 3/16/23      18 - added patch to workaround for EF added clientID filtering - Moved away from public Github driver link
  *    
      0.1.5 3/16/23      17 Driver broken due to EF MQTT client name filtering - This driver no longer works
